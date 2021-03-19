@@ -1,0 +1,17 @@
+{
+  "name": "web3-simple-bot",
+  "version": "1.0.0",
+  "description": "Very simple bot to fetch and compare prices.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0",
+    "moment-timezone": "^0.5.33",
+    "web3": "^1.3.4"
+  }
+}
